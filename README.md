@@ -1,2 +1,4 @@
 # Madhav_Store_PowerBI_Dashboard
-Creating a Power BI dashboard for retail sales integrates data preparation, KPIs, and visualization for business insights.
+Professional Power BI dashboard development 
+for retail sales includes structured data preparation, 
+visualization, and interactivity for actionable insights.
